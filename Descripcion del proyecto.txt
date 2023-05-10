@@ -1,0 +1,4 @@
+- Título del juego: Aventuras en Medallo City
+- Concepto: en este juego, el jugador deberá ponerse en el papel de un ser extraterreste que de repente estrella su nave en el municipio de Bello, como mision principal el personaje tendrá que ir recogiendo la s partes dañadas de su nave mientras sortea los diferentes obstaculos y enemigos que aparecen en el camino
+- Dificultad: la idea es que a medida que el personaje avance los enemigos aparezcan en mayor cantidad y con mayor puntos de vida con el fin de simular un aumento de dificultad a medida que avanza el juego
+- Interacciones físicas: serían algunas interacciones básicas como saltar, correr, movimientos parabolicos, cambios de velocidad de los personajes
